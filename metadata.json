@@ -1,0 +1,14 @@
+{
+    "name": "JerryRune Addons - No Falling Block Rendering",
+    "description": "Prevents falling blocks from rendering",
+    "author": ["JerryRune"],
+    "entry": "index.js",
+    "requires": [
+      "requestV2",
+      "PogData",
+      "Vigilance",
+      "PromiseV2",
+      "BloomCore",
+      "RenderLib"
+  ]
+}
